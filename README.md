@@ -1,6 +1,6 @@
 # SwiftChimp
 
-A simple class to add mailchimp subscribers to a list from OSX or iOS.
+A simple class to add MailChimp subscribers to a list from OS X or iOS.
 
 **Setup:**  
 Add your API Key, List ID, and datacenter prefix.
